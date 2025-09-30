@@ -1,0 +1,18 @@
+# build output
+bin/
+obj/
+.publish/
+/bin/
+/obj/
+
+# sqlite side files
+*.db-shm
+*.db-wal
+*.sqlite-journal
+
+# VS/OS clutter
+.vscode/settings.json
+*.user
+*.suo
+.DS_Store
+Thumbs.db
