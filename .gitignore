@@ -16,3 +16,6 @@ obj/
 *.suo
 .DS_Store
 Thumbs.db
+
+WeatherForcastController.cs
+WeatherForcast.cs
